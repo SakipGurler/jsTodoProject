@@ -94,12 +94,12 @@ body {
 
 /* Style for complete task button */
 .task .checkTask {
-    color: orange;
-    border: 2px solid orange;
+    color: rgb(0, 255, 17);
+    border: 2px solid rgb(81, 255, 0);
 }
 
 .task .checkTask:hover {
-    background-color: orange;
+    background-color: rgb(40, 133, 0);
     color: #fff;
 }
 
